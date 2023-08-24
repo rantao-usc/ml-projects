@@ -34,7 +34,7 @@ This project features a Naïve Bayes model and a RNN model to classify the emoti
 
 - **Technology Stack**: Python, Scikit-Learn, Keras, TensorFlow, Pandas, Numpy
 
-## 6. [Recurrent Neural Network (RNN) Model for Time Series Analysis](https://github.com/rantao-usc/ml-projects/blob/master/DSCI-552/DSCI-552-Problem-Set/Problem-Set-6/3.%20Multivariate%20single%20timestep%20prediction.ipynb)
+## 6. [Recurrent Neural Network (RNN) Model for Time Series Analysis]([https://github.com/rantao-usc/ml-projects/blob/master/DSCI-552/DSCI-552-Problem-Set/Problem-Set-6/3.%20Multivariate%20single%20timestep%20prediction.ipynb](https://github.com/rantao-usc/ml-projects/tree/master/DSCI-552/DSCI-552-Problem-Set/Problem-Set-6))
 
 The final project involves the prediction of temperatures based on historical records using an RNN model, showcasing the utility of RNNs in time series analysis.
 
